@@ -6,42 +6,42 @@ const Data = [
     {
         title:"Controle de Baratas",
         description:"Desinfestação e limpeza de moveis",
-        image:"http://rsb.rudhisasmito.com/pestco/wp-content/uploads/sites/3/2023/10/control-img-1.jpg",
+        image:require("../../Assets/Images/images/i1.jpg"),
     },
     {
         title:"Controle de Moscas",
         description:"Desinfestação e limpeza de moveis",
-        image:"http://rsb.rudhisasmito.com/pestco/wp-content/uploads/sites/3/2023/10/control-img-2.jpg",
+        image:require("../../Assets/Images/images/i2.jpg"),
     },
     {
         title:"Controle de Abelhas",
         description:"Desinfestação e limpeza de moveis",
-        image:"http://rsb.rudhisasmito.com/pestco/wp-content/uploads/sites/3/2023/10/control-img-3.jpg",
+        image:require("../../Assets/Images/images/i3.jpg"),
     },
     {
         title:"Controle de Termitas",
         description:"Desinfestação e limpeza de moveis",
-        image:"http://rsb.rudhisasmito.com/pestco/wp-content/uploads/sites/3/2023/10/control-img-4.jpg",
+        image:require("../../Assets/Images/images/i4.jpg"),
     },
     {
         title:"Controle de Mosquitos",
         description:"Desinfestação e limpeza de moveis",
-        image:"http://rsb.rudhisasmito.com/pestco/wp-content/uploads/sites/3/2023/10/control-img-5.jpg",
+        image:require("../../Assets/Images/images/i5.jpg"),
     },
     {
         title:"Controle de insetos",
         description:"Desinfestação e limpeza de moveis",
-        image:"http://rsb.rudhisasmito.com/pestco/wp-content/uploads/sites/3/2023/10/control-img-6.jpg",
+        image:require("../../Assets/Images/images/i6.jpg"),
     },
     {
         title:"Controle de  Formigas",
         description:"Desinfestação e limpeza de moveis",
-        image:"http://rsb.rudhisasmito.com/pestco/wp-content/uploads/sites/3/2023/10/control-img-7.jpg",
+        image:require("../../Assets/Images/images/i7.jpg"),
     },
     {
         title:"Controle de Roedores",
         description:"Desinfestação e limpeza de moveis",
-        image:"http://rsb.rudhisasmito.com/pestco/wp-content/uploads/sites/3/2023/10/control-img-8.jpg",
+        image:require("../../Assets/Images/images/i8.jpg"),
     },
 ];
 
